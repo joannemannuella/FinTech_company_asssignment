@@ -1,1 +1,1 @@
-# FinTech_company_asssignment
+# FinTech_Case_study_asssignment
