@@ -15,7 +15,7 @@ The company was originally founded as Zip Money, which offered digital credit to
 Then soon after they launched Zip Pay to provide every day use type of payment, that include retail and health sector.
 They changed their company name on December 2017 ‘ZipMoney Limited’ to ‘Zip Co Limited’. 2016 Zip bought **[Pocketbook](https://getpocketbook.com/)**, one of the most popular personal finance app.
 The company services now can be use in Australia, Canada, Czech Republic, India, Mexico, New Zealand, the Philippines, Poland, Saudi Arabia, Singapore, South Africa, UAE, the United Kingdom and the USA.
-Zip land **$260 million** debt facility in 2017 with **200 million** in funding from  **[National Australia Bank](https://www.nab.com.au/)** and **$40 million** equity invesment from **[Westpac Bank](https://www.westpac.com.au/).**
+Zip lands **$260 million** debt facility in 2017 with **200 million** in funding from  **[National Australia Bank](https://www.nab.com.au/)** and **$40 million** equity invesment from **[Westpac Bank](https://www.westpac.com.au/).**
 
 
 ## Business Activities:
@@ -118,6 +118,7 @@ A technology that might be considered is event driven architecture with AWS and 
 
 
 Reference:
+
 [https://zip.co/au/how-zip-works](https://zip.co/au/how-zip-works)
 
 [https://www.confluent.io/resources/event-driven-microservices/?utm_medium=sem&utm_source=google&utm_campaign=ch.sem_br.nonbrand_tp.prs_tgt.technical-research_mt.mbm_rgn.apac_lng.eng_dv.all_con.event-driven-architecture&utm_term=%2Bevent%20%2Bdriven%20%2Barchitecture&creative=&device=c&placement=&gclid=CjwKCAjwrfCRBhAXEiwAnkmKmblJpiSpkdvBeaj-2rSXnZEfO6TAwNOo93GXJrfdvPnDry1kF3UkNBoCyUMQAvD_BwE](https://www.confluent.io/resources/event-driven-microservices/?utm_medium=sem&utm_source=google&utm_campaign=ch.sem_br.nonbrand_tp.prs_tgt.technical-research_mt.mbm_rgn.apac_lng.eng_dv.all_con.event-driven-architecture&utm_term=%2Bevent%20%2Bdriven%20%2Barchitecture&creative=&device=c&placement=&gclid=CjwKCAjwrfCRBhAXEiwAnkmKmblJpiSpkdvBeaj-2rSXnZEfO6TAwNOo93GXJrfdvPnDry1kF3UkNBoCyUMQAvD_BwE)
@@ -127,3 +128,5 @@ Reference:
 [https://en.wikipedia.org/wiki/A](https://en.wikipedia.org/wiki/A)
 
 [https://www.cloverdx.com/explore/data-integration](https://www.cloverdx.com/explore/data-integration)
+
+[https://www.bgtrading.com.au/stock_analysis/asx-z1p-zip-co-final-analysis-and-comparison-to-the-other-bnpl/](https://www.bgtrading.com.au/stock_analysis/asx-z1p-zip-co-final-analysis-and-comparison-to-the-other-bnpl/)
