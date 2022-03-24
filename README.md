@@ -20,7 +20,7 @@ The company services now can be use in Australia, Canada, Czech Republic, India,
 Zip lands **$260 million** debt facility in 2017 with **200 million** in funding from  **[National Australia Bank](https://www.nab.com.au/)** and **$40 million** equity invesment from **[Westpac Bank](https://www.westpac.com.au/).**
 
 
-## Business Activities:
+## Business Activities
 
 ***What specific financial problem is the company or project trying to solve?***
 
@@ -40,7 +40,7 @@ Their main product Zip Pay enable users to shop just about everywhere where most
 Zip using techbology from single API integration, IOS, .NET, they use Kotlin for their android development and Phyton as main programming language, they utilised machine learning algorithm for their back end service.
 [Zip video on technology and product development ](https://www.linkedin.com/posts/zip-co-limited_python-kotlin-react-activity-6912565419308462080-5-OM?utm_source=linkedin_share&utm_medium=member_desktop_web).
 
-## Landscape:
+## Landscape
 
 ***What domain of the financial industry is the company in?***
 
