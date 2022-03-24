@@ -1,5 +1,7 @@
 # Zip Co Case Study
 
+# ZIP PAY 
+
 ## Overview and Origin
 
 **Zip pay co limited**
@@ -58,7 +60,7 @@ Electronic payment and digital wallet has been a major trend and innovation in t
 
 Quoting from the Australian "Zip currently in 14 countries and growing, Zip's footprint has helped it post a record 58 per cent lift in revenue to $167.4m for the quarter. Transaction numbers climbed 85 per cent year on year in the second quarter of the 2022 financial year". Approximately 70% of Zip’s transaction volume is generated through ecommerce (online or through the app).
 
-According to [Zip.co](https://zip.co/investors/q2-fy21-trading-update) Zip cements its position as one of the fastest growing BNPL players in the US, and as a true global BNPL leader, with over 5.7m customers, annualised TTV of c.$7.5bn+1 and annualised revenue of c$480m1.Merchants with an ecommerce presence adopt a multi-pronged strategy in how they acquire customers. Service providers who offer similar or competing consumer acquisition services include Google, Facebook, Amazon, eBay and affiliate programs. These vendors provide the service at a cost to the merchant according to["Zip.co"](https://zip.co/investors/review-of-retail-payments-regulation-issues-paper-november-2019).
+According to [Zip.co](https://zip.co/investors/q2-fy21-trading-update) Zip cements its position as one of the fastest growing BNPL players in the US, and as a true global BNPL leader, with over 5.7m customers, annualised TTV of $7.5bn and annualised revenue of $480m. Merchants with an ecommerce presence adopt a multi-pronged strategy in how they acquire customers. Service providers who offer similar or competing consumer acquisition services include Google, Facebook, Amazon, eBay and affiliate programs. These vendors provide the service at a cost to the merchant according to["Zip.co"](https://zip.co/investors/review-of-retail-payments-regulation-issues-paper-november-2019).
 
 
 ***What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?***
