@@ -1,8 +1,12 @@
-# Zip Pay Case Study
+# Zip Co Case Study
 
 ## Overview and Origin
 
 **Zip pay co limited**
+
+![Zip_Logo svg](https://user-images.githubusercontent.com/101541544/159904580-697e986a-20ea-4e96-a44c-a3d6ea574a46.png)
+
+
 
 **[Zip](https://zip.co/au/how-zip-works)** was founded in 2013 the headquarter located in Sydney 
 
@@ -110,10 +114,16 @@ Besides that, AfterPay offers "comprehensive technical support for initial integ
 
 I personally think this will open more business oportunity to boost the number of users, in my observation users do not mind paying for services where it give them most convinience and that is what exactly After Pay offering.
 
-event driven architecture with AWS and an orchestrating tool
-pull data from merchant DB using ETL tool like informatica
+A technology that might be considered is event driven architecture with AWS and an orchestrating tool to allow for real-time microservices communication, enabling data to be consumed in the form of events before they’re even requested, real-time microservices unrivalled flexibility, speed of feature development and deployment, extensibility, scalability, and a clear pathway towards machine learning, artificial intelligence, big data analysis, and more according to [Equal Experts](https://www.equalexperts.com/our-services/deliver/event-driven-architecture/?utm_term=event%20driven%20architecture&utm_campaign=Event+Driven+Architecture+(AUS)&utm_source=adwords&utm_medium=ppc&hsa_acc=8030283019&hsa_cam=13838711264&hsa_grp=126078661393&hsa_ad=544824633500&hsa_src=g&hsa_tgt=kwd-325703089364&hsa_kw=event%20driven%20architecture&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwrfCRBhAXEiwAnkmKmVtLNvbhIcYtsDL4fElNkgtAv_rZGUI9lmAJ1VjJZTUaK12AuEL_zRoC4DEQAvD_BwE). In a practical level, meaning delivering infinitely more value quicker than ever before, to reach customers, retain customers, surpass competitors, extending and growing your market share. Another technology to utilised is to pull data from merchant data base using ETL tool like informatica to improve interegation capabilities. As part of data integration, data is combined from different sources to extract additional value. This is done by performing actions such as joining, cleansing, validating, and enriching the data. This tools and technology will help Zip co in its interegation capabilities that will extend their business market.
 
 
-* What technologies would this additional product or service utilize?
+Reference:
+[https://zip.co/au/how-zip-works](https://zip.co/au/how-zip-works)
 
-* Why are these technologies appropriate for your solution?
+[https://www.confluent.io/resources/event-driven-microservices/?utm_medium=sem&utm_source=google&utm_campaign=ch.sem_br.nonbrand_tp.prs_tgt.technical-research_mt.mbm_rgn.apac_lng.eng_dv.all_con.event-driven-architecture&utm_term=%2Bevent%20%2Bdriven%20%2Barchitecture&creative=&device=c&placement=&gclid=CjwKCAjwrfCRBhAXEiwAnkmKmblJpiSpkdvBeaj-2rSXnZEfO6TAwNOo93GXJrfdvPnDry1kF3UkNBoCyUMQAvD_BwE](https://www.confluent.io/resources/event-driven-microservices/?utm_medium=sem&utm_source=google&utm_campaign=ch.sem_br.nonbrand_tp.prs_tgt.technical-research_mt.mbm_rgn.apac_lng.eng_dv.all_con.event-driven-architecture&utm_term=%2Bevent%20%2Bdriven%20%2Barchitecture&creative=&device=c&placement=&gclid=CjwKCAjwrfCRBhAXEiwAnkmKmblJpiSpkdvBeaj-2rSXnZEfO6TAwNOo93GXJrfdvPnDry1kF3UkNBoCyUMQAvD_BwE)
+
+[https://stockhead.com.au/company/zip-co-z1p/](https://stockhead.com.au/company/zip-co-z1p/)
+
+[https://en.wikipedia.org/wiki/A](https://en.wikipedia.org/wiki/A)
+
+[https://www.cloverdx.com/explore/data-integration](https://www.cloverdx.com/explore/data-integration)
